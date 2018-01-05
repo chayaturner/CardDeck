@@ -1,2 +1,5 @@
 # CardDeck
-Deck of Cards game
+Deck of Cards 
+console game
+
+Updated using classes instead of enums
