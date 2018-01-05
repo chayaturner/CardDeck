@@ -1,0 +1,14 @@
+C:\Users\scoon\Desktop\Scoony's work\Dovid\CardDeckReviewed\CardDeck\CardDeck\bin\Debug\CardDeck.exe.config
+C:\Users\scoon\Desktop\Scoony's work\Dovid\CardDeckReviewed\CardDeck\CardDeck\bin\Debug\CardDeck.exe
+C:\Users\scoon\Desktop\Scoony's work\Dovid\CardDeckReviewed\CardDeck\CardDeck\bin\Debug\CardDeck.pdb
+C:\Users\scoon\Desktop\Scoony's work\Dovid\CardDeckReviewed\CardDeck\CardDeck\obj\Debug\CardDeck.csprojResolveAssemblyReference.cache
+C:\Users\scoon\Desktop\Scoony's work\Dovid\CardDeckReviewed\CardDeck\CardDeck\obj\Debug\CardDeck.csproj.CoreCompileInputs.cache
+C:\Users\scoon\Desktop\Scoony's work\Dovid\CardDeckReviewed\CardDeck\CardDeck\obj\Debug\CardDeck.exe
+C:\Users\scoon\Desktop\Scoony's work\Dovid\CardDeckReviewed\CardDeck\CardDeck\obj\Debug\CardDeck.pdb
+C:\Users\scoon\source\repos\CardDeck\CardDeck\obj\Debug\CardDeck.csprojResolveAssemblyReference.cache
+C:\Users\scoon\source\repos\CardDeck\CardDeck\obj\Debug\CardDeck.csproj.CoreCompileInputs.cache
+C:\Users\scoon\source\repos\CardDeck\CardDeck\obj\Debug\CardDeck.exe
+C:\Users\scoon\source\repos\CardDeck\CardDeck\obj\Debug\CardDeck.pdb
+C:\Users\scoon\source\repos\CardDeck\CardDeck\bin\Debug\CardDeck.exe.config
+C:\Users\scoon\source\repos\CardDeck\CardDeck\bin\Debug\CardDeck.exe
+C:\Users\scoon\source\repos\CardDeck\CardDeck\bin\Debug\CardDeck.pdb
